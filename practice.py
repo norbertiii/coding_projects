@@ -3,7 +3,7 @@ num_d={"one":"1", "two":"2", "three":"3", "four":"4", "five":"5", "six":"6", "se
 # i="one"
 # print(num_d.get("e"))#["one"])
 
-new_list=["ggrbeightl5cthnzlsbjs7sixpt"]
+new_list=["ggrbeight4l5cthnzlsbjs7sixpt"]
 code=""
 for i in new_list:
     length=len(i)
